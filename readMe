@@ -1,0 +1,9 @@
+# Server-side script using Python Flask, JSON, and eBay APi
+# disclaimer: Asked to keep source off public repos, ca share source upon request
+
+#Backend server is written in python using the Flask framework
+#Fronend web page is created using HTML, CSS, JavaScript, HTML Dom,and XMLHTTPRequest object
+
+#used eBay Finding API to search fetch data
+#fetch and render JSON-formatted data
+#used Google Cloud Platform to load webpage onto the cloud
